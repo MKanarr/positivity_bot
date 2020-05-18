@@ -1,0 +1,6 @@
+# don't push folder
+node_modules/
+
+# don't push these files
+*.env
+keys.js
