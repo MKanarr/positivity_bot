@@ -2,5 +2,6 @@
 node_modules/
 
 # don't push these files
+*.json
 *.env
 keys.js
